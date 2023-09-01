@@ -1,0 +1,11 @@
+# -> Só vai para o git arquivos fonte: arquivos de código e desenvolvimento <-
+# Remover variáveis de ambiente
+.env
+.idea\
+*.idea
+.leouve
+*.sqlite3
+*pyc
+
+# Arquivos de memórias e/ou de processamento não precisam ir para o git
+__pycache__
