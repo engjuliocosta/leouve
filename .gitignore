@@ -3,6 +3,7 @@
 .env
 .idea\
 *.idea
+idea
 .leouve
 *.sqlite3
 *pyc
